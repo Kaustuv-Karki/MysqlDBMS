@@ -1,1 +1,4 @@
 # MysqlDBMS
+
+NAME : Kaustuv Karki
+ROLL: THA076BCT017
